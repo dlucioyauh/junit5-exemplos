@@ -9,7 +9,7 @@
 
     <description>Repositório com exemplos utilizando JUnit 5</description>
 
-    <url>https://github.com/willyancaetano/junit5-exemplos</url>
+    <url>https://github.com/dlucioyauh/junit5-exemplos</url>
 
     <licenses>
         <license>
@@ -25,30 +25,30 @@
     </organization>
 
     <scm>
-        <url>https://github.com/willyancaetano/junit5-exemplos</url>
-        <connection>git@github.com:willyancaetano/junit5-exemplos.git</connection>
-        <developerConnection>git@github.com:willyancaetano/junit5-exemplos.git</developerConnection>
+        <url>https://github.com/dlucioyauh/junit5-exemplos</url>
+        <connection>git@github.com:dlucioyauh/junit5-exemplos.git</connection>
+        <developerConnection>git@github.com:dlucioyauh/junit5-exemplos.git</developerConnection>
     </scm>
 
     <issueManagement>
         <system>Issues</system>
-        <url>https://github.com/willyancaetano/junit5-exemplos/issues</url>
+        <url>https://github.com/dlucioyauh/junit5-exemplos/issues</url>
     </issueManagement>
 
     <ciManagement>
         <system>Pipelines</system>
-        <url>https://github.com/willyancaetano/junit5-exemplos/pipelines</url>
+        <url>https://github.com/dlucioyauh/junit5-exemplos/pipelines</url>
     </ciManagement>
 
     <developers>
         <developer>
-            <id>willyancaetano</id>
-            <email>willyancaetano775@gmail.com</email>
-            <name>Willyan Guimarães Caetano</name>
+            <id>dlucioyauh</id>
+            <email>dlucio.douglas@gmail.com</email>
+            <name>Douglas Gonçalves Lucio</name>
             <organization>Digital Innovation One</organization>
             <organizationUrl>https://digitalinnovation.one</organizationUrl>
             <roles>
-                <role>architect</role>
+                <role>Back-End</role>
                 <role>developer</role>
             </roles>
             <timezone>America/Sao_Paulo</timezone>
